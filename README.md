@@ -1,4 +1,5 @@
-# Quantitative-Research-Strategies-in-Financial-Mathematics
+# UChicago FinMath Project Lab
+
 Financial Mathematics models in Quantitative Research Strategies
 
 Several slides of short notes on Quantitative Research ideas, mostly regarding Stochastic Volatility models.
